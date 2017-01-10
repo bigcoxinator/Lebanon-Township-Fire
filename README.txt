@@ -1,4 +1,4 @@
-This website is a collection of code and files taken from various free sources and any file that is protected was modified in ways to make it into a legally usable website asset. Even if the department begins charging for its services, the code and assets used on this website have been used in a transitive manner and can be considered legal under fair use laws. 
+This website is a collection of code and files taken from various free sources and any file that is protected was modified in ways to make it into a legally usable website asset. The code and assets used on this website have been used in a transitive manner and can be considered legal under fair use laws. 
 
 The files used for this website all lack commenting and suffer a significant lack of understandability without being somewhat familiar with the structure of the files and the actual programming language. Good websites for reference to the code are contained in a list directly below:
 http://www.w3schools.com/html/
