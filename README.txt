@@ -8,6 +8,6 @@ http://stackoverflow.com/
 
 If any websites are missing and you, the user, believe they should be included for future reference (to you, or any other user), feel free to include said websites.
 
-Any and all suggestions for the website are welcome, and it is encouraged to communicate with others as you contribute to the development of this website so that everyone has an assigned task in the way of website creation.
+Any and all suggestions for the website are welcome, and it is encouraged to communicate with others as you contribute to the development of this website so that everyone has an assigned task in the way of website creation. Ask to join the LTVFD Slack channel for quick responses and active discussions on progress!
 
 Also, changes to the master branch must be made few and far between.
